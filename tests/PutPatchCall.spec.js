@@ -39,7 +39,7 @@ test("Test Put API", async function ({ request }) {
     console.log("token is " + jsontoken);
 //=================================================================================================================================
     //booking post api 
-    
+    //test
 
     const respdata = await request.post("https://restful-booker.herokuapp.com/booking", { headers: { "content-type": "application/json" }, data: userdata })
     {
