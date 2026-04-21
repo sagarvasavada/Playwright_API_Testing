@@ -1,0 +1,11 @@
+{
+    "firstname" : "playwright",
+    "lastname" : "API",
+    "totalprice" : 250,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2025-01-01",
+        "checkout" : "2026-01-01"
+    },
+    "additionalneeds" : "Dinner"
+}
